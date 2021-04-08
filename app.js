@@ -4,7 +4,7 @@ let notFound=document.querySelector('.not__found');
 let defBox=document.querySelector('.def');
 let audioBox=document.querySelector('.audio');
 let Loading=document.querySelector('.loading');
-let apiKey='1c116af2-c156-4eed-a376-19c8bf31cd3a';
+let apiKey='##';
 searchBtn.addEventListener('click',function(e){
     e.preventDefault();
     //GET INPUT DATA
